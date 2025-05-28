@@ -1,3 +1,0 @@
-.env
-.vs/
-last_read.json
